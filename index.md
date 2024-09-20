@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CS340 - Fall 2023
+title: CS340 - Fall 2024
 nav_exclude: true
 seo:
 type: Course
@@ -12,11 +12,11 @@ name: CS340 - Introduction to Computer Networking
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-## About the CS340 fall 2023 course
+## About the CS340 fall 2024 course
 
 - **Instructor**: Esteban Carisimo
-- **Location**: - Annenberg Hall G21
-- **Time** Tuesdays and Thursdays 9:30AM - 10:50AM
+- **Location**: Block Pick-Laudati Auditorium
+- **Time** Mondays and Wednesdays 12:30PM - 1:50PM
 
 
 ## Overview
