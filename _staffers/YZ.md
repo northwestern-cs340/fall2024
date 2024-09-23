@@ -1,9 +1,9 @@
 ---
 name: Ying Zhang
-role: Peer Mentor
+role: Teaching Assistant
 email: firstname %D0T% lastname 2024 %AT% northwestern %D0T% edu
 website: 
 photo: YZ.jpg
-office-hours: TBD
+office-hours: Thu 1:00pm-2:00pm (TBD)
 ---
 

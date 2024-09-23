@@ -31,7 +31,7 @@ schedule:
           location: Block Pick-Laudati Auditorium
   - name: Tuesday
     events:
-      - name: Office Hours
+      - name: Office Hours (Esteban)
         start: 12:00 PM
         end: 1:00 PM
         location: Esteban (Mudd 3416)
@@ -47,6 +47,10 @@ schedule:
         location: Block Pick-Laudati Auditorium
   - name: Thursday
     events:
+    - name: Office Hours (Ying)
+        start: 1:00 PM
+        end: 2:00 PM
+        location: TBD
   - name: Friday
     events:
 ---
