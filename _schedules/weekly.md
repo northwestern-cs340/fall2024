@@ -47,10 +47,14 @@ schedule:
         location: Block Pick-Laudati Auditorium
   - name: Thursday
     events:
-    - name: Office Hours (Ying)
-        start: 1:00 PM
-        end: 2:00 PM
-        location: TBD
+      - name: Office Hours (Ying)
+          start: 1:00 PM
+          end: 2:00 PM
+          location: TBD
   - name: Friday
     events:
+      - name: Office Hours (Josh)
+          start: 1:00 PM
+          end: 2:00 PM
+          location: TBD
 ---

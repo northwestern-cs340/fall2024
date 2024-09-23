@@ -26,6 +26,9 @@ description: >-
 
 - Esteban's: Tue 12:00pm-1:00pm (Mudd 3416)
 - Oscar's: Mon 11:00am-12:00pm (TBD)
+- Daniel's: Wed 11:00am-12:00pm (TBD)
+- Ying's: Thu 1:00pm-2:00pm (TBD)
+- Josh's: Fri 1:00pm-2:00pm (TBD)
 
 ---
 
