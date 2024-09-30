@@ -24,7 +24,7 @@ schedule:
         - name: Office Hours (Oscar)
           start: 11:00 AM
           end: 12:00 PM
-          location: TBD
+          location: Mudd 3 floor front counter
         - name: Lecture
           start: 12:30 PM
           end: 1:50 PM
@@ -44,7 +44,7 @@ schedule:
       - name: Lecture
         start: 12:30 PM
         end: 1:50 PM
-        location: Block Pick-Laudati Auditorium
+        location: Mudd 3108
   - name: Thursday
     events:
       - name: Office Hours (Ying)
@@ -56,5 +56,5 @@ schedule:
       - name: Office Hours (Josh)
         start: 1:00 PM
         end: 2:00 PM
-        location: TBD
+        location: Mudd 3 floor front counter
 ---
