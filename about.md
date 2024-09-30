@@ -24,7 +24,7 @@ description: >-
 
 ## Office Hours
 
-- Esteban's: Tue 12:00pm-1:00pm (Mudd 3416)
+- Esteban's: Tue 12:00pm-1:00pm (Mudd 1 floor)
 - Oscar's: Mon 11:00am-12:00pm (Mudd 3 floor front counter)
 - Daniel's: Wed 11:00am-12:00pm (Mudd 3108)
 - Ying's: Thu 1:00pm-2:00pm (TBD)

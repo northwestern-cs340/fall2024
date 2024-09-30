@@ -34,7 +34,7 @@ schedule:
       - name: Office Hours (Esteban)
         start: 12:00 PM
         end: 1:00 PM
-        location: Esteban (Mudd 3416)
+        location: Esteban (Mudd 1 floor)
   - name: Wednesday
     events:
       - name: Office Hours (Daniel)
