@@ -34,7 +34,7 @@ schedule:
       - name: Office Hours (Esteban)
         start: 12:00 PM
         end: 1:00 PM
-        location: Esteban (Mudd 1 floor)
+        location: Esteban (TCHLR3)
   - name: Wednesday
     events:
       - name: Office Hours (Daniel)
@@ -50,7 +50,7 @@ schedule:
       - name: Office Hours (Ying)
         start: 1:00 PM
         end: 2:00 PM
-        location: TBD
+        location: Mudd 3 floor front counter
   - name: Friday
     events:
       - name: Office Hours (Josh)
